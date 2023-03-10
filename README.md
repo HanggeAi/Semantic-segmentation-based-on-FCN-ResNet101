@@ -13,7 +13,7 @@ Semantic segmentation based on FCN-ResNet101, which was pretrained, so it's conv
 
 ### Linus' blessing for Nvidia
 ![nvidia fk u](https://user-images.githubusercontent.com/106570281/224214585-2f05b76c-5121-484a-a9fa-150983d1e010.png)
-## Of course, it's more important are the applications for driverless vehicles, subch as:
+## Of course,  More important are the applications for driverless vehicles, subch as:
 ### road with snow
 ![image](https://user-images.githubusercontent.com/106570281/224220762-38b9541f-5708-4fdd-9d3b-6cb11940c24c.png)
 ### road with montain:
