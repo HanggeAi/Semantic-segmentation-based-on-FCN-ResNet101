@@ -19,4 +19,4 @@ Semantic segmentation based on FCN-ResNet101, which was pretrained, so it's conv
 ### road with montain:
 ![image](https://user-images.githubusercontent.com/106570281/224220855-21779327-35cc-400c-9d0a-7ba8a80f8453.png)
 ---
-See more results in ```outputs``` !
+## See more results in ```outputs``` !
