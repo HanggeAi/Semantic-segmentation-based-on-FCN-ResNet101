@@ -9,6 +9,7 @@ Semantic segmentation based on FCN-ResNet101, which was pretrained, so it's conv
 
 ## some of the outputs
 ### me under the tree 
-![qrfst2](https://user-images.githubusercontent.com/106570281/224214504-a4e2fa8d-5f02-4ca4-9b77-4a142805afbb.jpg)
+![myself](https://user-images.githubusercontent.com/106570281/224214966-5a7b65f8-0710-4b5b-9508-fcb06a6d4cdb.png)
+
 ### Linus' blessing for Nvidia
 ![nvidia fk u](https://user-images.githubusercontent.com/106570281/224214585-2f05b76c-5121-484a-a9fa-150983d1e010.png)
